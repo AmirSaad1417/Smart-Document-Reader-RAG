@@ -1,14 +1,21 @@
 # 📑 Smart Document Reader
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-document-reader-rag-8znyeoqp68etgjedfghkku.streamlit.app/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-1.5+-purple.svg)](https://www.langchain.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B.svg)](https://streamlit.io/)
-[![Gradio](https://img.shields.io/badge/Gradio-6.3+-orange.svg)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-AmirSaad1417-181717?logo=github)](https://github.com/AmirSaad1417)
 
 > **Turn any document into a smart assistant — ask for summaries, key facts, or detailed explanations.**  
 > An enterprise-grade **Retrieval-Augmented Generation (RAG)** platform featuring **Google Gemini Embeddings**, **FAISS vector indexing**, and **Intelligent Dual-Provider Failover (Gemini + Groq)** with verified page-level source citations.
+
+---
+
+## 🌐 Live Application
+
+Access the live, deployed web application here:  
+👉 **[https://smart-document-reader-rag-8znyeoqp68etgjedfghkku.streamlit.app/](https://smart-document-reader-rag-8znyeoqp68etgjedfghkku.streamlit.app/)**
 
 ---
 
